@@ -1,11 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ridham</h1>
-- 🌱 I’m currently studying at Studienkolleg, TH Lübeck and enhancing my programming skills by making new projects. Side by side I am also focusing on Java and Object-oriented programming
+# Hi there, I'm Ridham Kumar 👋
 
-- 📫 How to reach me **ridhammehra2020@gmail.com**
+**Studying at Studienkolleg, TH Lübeck (T-Kurs)**  
+**Passionate learner working toward a career in software development and cybersecurity.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Technologies & Skills
+- **Languages:** Python, Java  
+- **Learning:** Web Development, Ethical Hacking (Linux, basic hacking)  
+
+---
+
+## 💻 Projects
+
+### 1. Python Calculator with History
+A command-line calculator that supports +, −, ×, ÷ operations and saves every calculation to a history file. Includes commands to view and clear history.
+
+### 2. Rock-Paper-Scissors Game
+A Python game where the user plays against the computer with score tracking and random computer moves.
+
+### 3. Dice Rolling Game (Up to 4 Players)
+A multiplayer dice-rolling game where players race to reach 50 points, with turn-based rolls and risk-based scoring.
+
+
+---
+
+## ✉️ Contact
+📧 ridhammehra2020@gmail.com
